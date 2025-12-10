@@ -3,7 +3,8 @@ Autonomous multi-agent system built in n8n. Features parallel content generation
 
 # Multi-Agent Content Factory with Auto-QA Loop 🏭 ✍️
 
-<img width="1749" height="587" alt="Screenshot (70)" src="https://github.com/user-attachments/assets/93b1e930-2b3b-4974-8d1b-3cc7557eba4a" />
+
+<img width="1739" height="560" alt="Screenshot (71)" src="https://github.com/user-attachments/assets/c79408d8-f458-4993-837d-8fe9b67db326" />
 
 
 ## 🧠 Overview

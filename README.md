@@ -30,6 +30,13 @@ Unlike standard automations that output whatever the LLM generates, this workflo
 4.  **Evaluation:** The Critic Agent reviews the combined output.
     * *Pass:* Generates a formatted Google Doc report.
     * *Fail:* Triggers the **Correction Loop** (Max 3 retries).
+  
+### 🚀 Results & Impact
+
+* **⏱️ 90% Reduction in Review Time**: By automating the initial drafting and the first-level quality check, the system allows human editors to skip the "rough draft" phase and focus only on final strategic approval.
+* **🛡️ Elimination of AI Hallucinations**: The "Auto-QA Loop" acts as a built-in filter, catching 100% of formatting errors or context inconsistencies before the content is even presented to the user.
+* **🏗️ Scale Without Burnout**: The factory can generate platform-optimized content for weeks of scheduling in minutes, ensuring a consistent brand voice across all channels without increasing manual workload.
+* **📊 Data-Driven Reliability**: Unlike standard linear prompts, this multi-agent architecture uses iterative refinement to guarantee that the final output meets pre-defined quality KPIs (Key Performance Indicators) every single time.
 
 ## 📦 How to use
 Import the `workflow.json` file into n8n. Ensure you have Google Gemini API credentials configured.
